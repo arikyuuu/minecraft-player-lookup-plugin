@@ -1,0 +1,4 @@
+name: PlayerLookup
+version: 0.0.1
+main: me.qraisor.playerlookup.PlayerLookup
+api-version: 1.18
